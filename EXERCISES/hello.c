@@ -2,7 +2,11 @@
 
 int main(void)
 {
-    printf("Hello, C Language!\n");
+    int a = 10;
+    int b = 20;
+    int sum = a + b;
+
+    printf("Sum = %d\n", sum);
 
     return 0;
 }
