@@ -1,0 +1,29 @@
+
+# Visual Studio 缓存目录（忽略所有层级）
+.vs/
+
+# 编译输出目录
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Visual Studio 用户配置
+*.vcxproj.user
+*.suo
+
+# 编译产生的文件
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.ipch
+*.log
+*.tlog/
+*.recipe
+*.db
+*.db-shm
+*.db-wal
+*.vsidx
