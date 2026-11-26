@@ -35,6 +35,8 @@ CODE/C01/.vscode/*
 *.db-shm
 *.db-wal
 *.vsidx
+*.i
+*.s
 
 # GCC temporary files
 *.out
