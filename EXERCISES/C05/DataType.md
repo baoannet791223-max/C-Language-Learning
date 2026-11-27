@@ -6,6 +6,10 @@
 4. signed 与 unsigned 的区别。
 5. unsigned 整数的溢出和下溢回绕。
 6. signed 整数溢出属于未定义行为。
+7.自动类型转换
+8.强制类型转换
+9.整数除法
+10.浮点数转换为整数时的精度损失
 
 C05 · 数据类型与变量
 课程目录： E:\C_Learning\EXERCISES\C05
